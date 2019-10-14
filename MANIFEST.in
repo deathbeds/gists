@@ -1,2 +1,2 @@
-recursive-include tonyfast *.ipynb
-recursive-include tonyfast *.md
+recursive-include deathbeds *.ipynb
+recursive-include deathbeds *.md
