@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Tony Fast
+name: Deathbeds
 
 # Short bio or description (displayed in the header)
-description: Scientist
+description: Open source software collective
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/4236275?s=400&v=4
@@ -29,7 +29,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: tonyfast.github.com/gists
+url: deathbeds.github.com/gists
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
